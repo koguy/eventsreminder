@@ -1,0 +1,11 @@
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\bin\Debug\netcoreapp2.2\TelegramBotBirthday.deps.json
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\bin\Debug\netcoreapp2.2\TelegramBotBirthday.runtimeconfig.json
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\bin\Debug\netcoreapp2.2\TelegramBotBirthday.runtimeconfig.dev.json
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\bin\Debug\netcoreapp2.2\TelegramBotBirthday.dll
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\obj\Debug\netcoreapp2.2\TelegramBotBirthday.csprojAssemblyReference.cache
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\obj\Debug\netcoreapp2.2\TelegramBotBirthday.csproj.CoreCompileInputs.cache
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\obj\Debug\netcoreapp2.2\TelegramBotBirthday.AssemblyInfoInputs.cache
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\obj\Debug\netcoreapp2.2\TelegramBotBirthday.AssemblyInfo.cs
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\bin\Debug\netcoreapp2.2\TelegramBotBirthday.pdb
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\obj\Debug\netcoreapp2.2\TelegramBotBirthday.dll
+E:\My\Telegram\TelegramBotBirthday\TelegramBotBirthday\obj\Debug\netcoreapp2.2\TelegramBotBirthday.pdb
